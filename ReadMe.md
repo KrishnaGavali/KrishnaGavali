@@ -1,4 +1,4 @@
-<p align="center">
+<p >
   <img src="MOSHED-2025-8-11-14-25-1.gif" alt="Glitch Banner" width="700"/>
 </p>
 
