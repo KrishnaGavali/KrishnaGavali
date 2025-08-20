@@ -1,43 +1,61 @@
-<div>
-  <!-- Glitch GIF Banner -->
-  <img src="MOSHED-2025-8-11-14-25-1.gif" alt="Glitch Banner" width="700"/>
+# 👋 Hey, I’m Krishna
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=39&duration=750&pause=1000&color=00FFE0&multiline=true&repeat=false&width=1600&height=300&lines=+;+System+Initiating+.+.+.;+;+System+Booted+++%3A);+;I+turn+ideas+into+deploys+%E2%80%94+fueled+by+code%2C+caffeine%2C+and+curiosity." alt="Typing SVG" /></a>
+🚀 Full Stack Developer | Indie SaaS Builder | Tech Explorer  
 
-</div>
-
----
-
-<div align="">
-
-### 🛠️ Skills & Tools
-
-<p>
-    <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00FFE0" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00FFE0" alt="Python" />
-    <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=00FFE0" alt="React" />
-    <img src="https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=00FFE0" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=00FFE0" alt="Docker" />
-    <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=00FFE0" alt="Git" />
-</p>
+I’m a **3rd-year Computer Engineering student** at G. H. Raisoni College of Engineering, Pune.  
+Right now, I’m focused on **building my own SaaS products solo** — experimenting with AI, web apps, and scalable systems.  
 
 ---
 
-### 📊 GitHub Activity
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=KrishnaGavali&show_icons=true&theme=radical&hide_border=true&icon_color=00FFE0&title_color=00FFE0" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaGavali&theme=radical&hide_border=true&ring=00FFE0&fire=00FFE0" alt="GitHub Streak" />
-</p>
+## ⚡ About Me  
+- 🛠️ I build **real-time multiplayer apps, scalable backends, and AI-driven products**  
+- 🚀 Currently working on **SkillCred** (a SaaS for resume + GitHub evaluation)  
+- 🌱 Exploring **AI + SaaS + product building**  
+- 🎯 Goal: Ship projects that solve real problems & scale beyond college walls  
 
 ---
 
-### 🤝 Contact Me
+## 🧑‍💻 Tech Stack  
 
-<p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&color=00FFE0" alt="Email" /></a>
-    <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&color=00FFE0" alt="LinkedIn" /></a>
-    <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&color=00FFE0" alt="GitHub" /></a>
-</p>
+**Frontend**  
+`React` · `Next.js` · `Framer Motion` · `Tailwind CSS` · `Shadcn UI`  
 
-</div>
+**Backend**  
+`Node.js` · `Express` · `FastAPI` · `Socket.io` · `SQL` · `PostgreSQL`  
+
+**Databases**  
+`MongoDB` · `Redis (Upstash)`  
+
+**DevOps & Deployment**  
+`GCP (Compute Engine)` · `AWS EC2` · `Nginx` · `Vercel` · `Certbot SSL`  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🎮 [TypeStrike](https://www.typestrike.tech/)  
+A **real-time multiplayer typing game** (1v1 & 4-player).  
+- Built with **MERN + Socket.io + Framer Motion**  
+- Backend on **GCP Compute Engine (Nginx reverse proxy)**  
+- Frontend on **Vercel with custom domain**  
+
+### 🃏 [ChitRush](https://www.chitrush.me/)  
+An **8-player browser-based multiplayer card game**  
+- **Realtime gameplay** with Socket.io + Redis (Upstash)  
+- Fully responsive & cloud deployed (Vercel + GCP)  
+
+### ⚙️ SkillCred *(Work in Progress)*  
+SaaS platform helping students validate their **resume & GitHub** using AI.  
+- **Phase 1 (B2C)**: Resume/GitHub evaluator + Razorpay integration  
+- Built solo with **FastAPI + Next.js + PostgreSQL**  
+
+---
+
+## 📬 Connect With Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/krishnagavali)  
+- 🌍 [GitHub](https://github.com/KrishnaGavali)  
+- 📧 krishnagavali973@gmail.com  
+
+---
+
+⭐ *I believe in learning by shipping products — every project takes me one step closer to building something big.*  
