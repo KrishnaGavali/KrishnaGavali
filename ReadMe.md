@@ -49,9 +49,9 @@ An **8-player browser-based multiplayer card game**
 * **Realtime gameplay** powered by Socket.io + Redis (Upstash)
 * Fully responsive & cloud deployed (Vercel + GCP)
 
-### ⚙️ AI SaaS *(Work in Progress)*
+### ⚙️ KronoAI (AI SaaS) *(Work in Progress)*
 
-AI-powered SaaS in the **EdTech + HiringTech** space
+AI-powered SaaS in the **Conversational AI Productivity Tool** space
 
 ---
 
