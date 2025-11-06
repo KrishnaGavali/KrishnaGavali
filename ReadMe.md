@@ -22,10 +22,10 @@ Right now, I’m focused on **building SaaS products solo** — experimenting wi
 `React` · `Next.js` · `Framer Motion` · `Tailwind CSS` · `Shadcn UI`
 
 **Backend**
-`Node.js` · `Express` · `FastAPI` · `Socket.io` · `PostgreSQL`
+`Node.js` · `Express` · `FastAPI` · `Socket.io` · `Firebase` • `Appwrite`
 
 **Databases**
-`MongoDB` · `Redis (Upstash)`
+`MongoDB` · `Redis (Upstash)` . `PostgreSQL`
 
 **DevOps & Deployment**
 `GCP (Compute Engine)` · `AWS EC2` · `Nginx` · `Vercel` · `Certbot SSL`
