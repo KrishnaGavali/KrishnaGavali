@@ -51,7 +51,7 @@ An **8-player browser-based multiplayer card game**
 
 ### ⚙️ KronoAI (AI Project) *(Work in Progress)*
 
-AI-powered SaaS in the **Conversational AI Productivity Tool** space
+AI-powered SaaS like project in the **Conversational AI Productivity Tool** space
 
 ---
 
