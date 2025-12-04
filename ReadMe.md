@@ -32,35 +32,4 @@ Right now, I’m focused on **building SaaS products solo** — experimenting wi
 
 ---
 
-## 🚀 Projects
-
-### 🎮 [TypeStrike](https://www.typestrike.tech/)
-
-A **real-time multiplayer typing game** (1v1 & 4-player).
-
-* Stack: **MERN + Socket.io + Framer Motion**
-* Backend: **GCP Compute Engine (Nginx reverse proxy)**
-* Frontend: **Vercel + custom domain**
-
-### 🃏 [ChitRush](https://www.chitrush.me/)
-
-An **8-player browser-based multiplayer card game**
-
-* **Realtime gameplay** powered by Socket.io + Redis (Upstash)
-* Fully responsive & cloud deployed (Vercel + GCP)
-
-### ⚙️ KronoAI (AI Project) *(Work in Progress)*
-
-AI-powered SaaS like project in the **Conversational AI Productivity Tool** space
-
----
-
-## 📬 Connect
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/krishnagavali)
-* 🌍 [GitHub](https://github.com/KrishnaGavali)
-* 📧 [krishnagavali973@gmail.com](mailto:krishnagavali973@gmail.com)
-
----
-
 ⭐ *I learn by shipping products — every build gets me closer to creating something big.*
