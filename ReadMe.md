@@ -2,7 +2,7 @@
 
 🚀 Full Stack Developer
 
-I’m a **3rd-year Computer Engineering student** at G. H. Raisoni College of Engineering, Pune.
+I’m a **4rd-year Computer Engineering student** at G. H. Raisoni College of Engineering, Pune.
 Right now, I’m focused on **building SaaS products solo** — experimenting with AI, web apps, and scalable systems.
 
 ---
